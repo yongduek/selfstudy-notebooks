@@ -9,6 +9,7 @@
 - `https://www.coursera.org/specializations/data-science-python?authMode=login&completeMode=existingCourseraAccount&errorCode=invalidCredential`
 - Book: `Think Stats: Probability and Statistics for Programmers`
 - Online Book: `http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/`
+  Computational Bayes Method!!
 - Online/PDF Book: `http://greenteapress.com/wp/think-bayes`
 
 
